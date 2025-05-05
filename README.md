@@ -1,8 +1,8 @@
 # 🚗 Les Bonnes Pièces – Interface web dynamique
 
-> *Quoi de mieux que la pratique pour approfondir votre maîtrise de JavaScript ?*
+Ce projet a été réalisé dans le cadre d’un exercice pratique consistant à créer une **interface web interactive** avec **JavaScript** pour Les Bonnes Pièces, un site spécialisé dans la vente de **pièces détachées automobiles**.
 
-Ce projet a été réalisé dans le cadre d’un exercice pratique consistant à créer une **interface web interactive** pour **Les Bonnes Pièces**, un site spécialisé dans la vente de **pièces détachées automobiles**.
+---
 
 ### 🎯 Objectif du projet
 
@@ -13,11 +13,21 @@ Créer une page web permettant :
 * De **visualiser** les commentaires des utilisateurs
 * De rendre l’interface claire, fluide et réactive en JavaScript
 
+---
+
+## 📸 Aperçu
+
+![Aperçu de l'application](./screenshot.png)
+
+---
+
 ### 🧰 Technologies utilisées
 
 * **HTML5** : structure de la page
 * **CSS3** : mise en forme
 * **JavaScript** : interactions, manipulation du DOM, tri/filtrage
+
+---
 
 ### 📦 Fonctionnalités
 
