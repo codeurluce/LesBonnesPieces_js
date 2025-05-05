@@ -47,25 +47,17 @@ Créer une page web permettant :
 
 ---
 
-## 📁 Données JSON
-
-Les produits et les avis clients sont simulés via des **fichiers JSON locaux**. Ces données sont récupérées dynamiquement pour être affichées et manipulées (tri, filtrage, affichage conditionnel).
-
-Exemples :
-
-* `products.json` → Liste des pièces automobiles
-* `comments.json` → Avis et commentaires des utilisateurs
-
----
-
 ## 🔧 Technologies utilisées
 
 * **HTML5 / CSS3**
 * **JavaScript Vanilla**
 * **Fetch API** pour les requêtes HTTP
 * **Manipulation du DOM**
-* Librairies JS optionnelles selon les besoins (ex: [Lodash](https://lodash.com/) pour le tri)
 
 ---
 
-Souhaites-tu que je t’aide à structurer ton dépôt avec un exemple de dossier `data/` contenant les fichiers JSON ?
+## 🚀 Comment exécuter le projet
+Ouvrez le dossier du projet dans Visual Studio Code
+Installez l'extension "Live Server" (si ce n’est pas déjà fait) :
+Faites clic droit sur index.html
+Cliquez sur "Open with Live Server"
