@@ -57,7 +57,7 @@ Créer une page web permettant :
 ---
 
 ## 🚀 Comment exécuter le projet
-Ouvrez le dossier du projet dans Visual Studio Code
-Installez l'extension "Live Server" (si ce n’est pas déjà fait) :
-Faites clic droit sur index.html
-Cliquez sur "Open with Live Server"
+- Ouvrez le dossier du projet dans Visual Studio Code
+- Installez l'extension "Live Server" (si ce n’est pas déjà fait) :
+- Faites clic droit sur index.html
+- Cliquez sur "Open with Live Server"
