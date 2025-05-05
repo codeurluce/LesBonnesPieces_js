@@ -1,11 +1,61 @@
-# 7697016-Front-End.1
+# 🚗 Les Bonnes Pièces – Interface web dynamique
 
-Code base du fil rouge pour le cours OpenClassrooms [Créez des pages web dynamiques avec JavaScript](https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript)
+> *Quoi de mieux que la pratique pour approfondir votre maîtrise de JavaScript ?*
 
-## Installation
+Ce projet a été réalisé dans le cadre d’un exercice pratique consistant à créer une **interface web interactive** pour **Les Bonnes Pièces**, un site spécialisé dans la vente de **pièces détachées automobiles**.
 
-Après avoir cloné le repo vous avez plusieurs options pour lancer le projet. 
+### 🎯 Objectif du projet
 
-Si vous utiliser VSCode ou un autre éditeur de code avec une extersion de serveur web comme live server, vous pouvez lancer direcement votre site avec l'extension que vous utilisez habituellement. 
+Créer une page web permettant :
 
-Dans le cas contraire vous pouvez installer les dépendances de ce projet avec `npm install` puis lancer le projet via la commande `npm start`. Vous verrez dans le termninal le lien vers le site (par defaut http://127.0.0.1:8080 )
+* D’**afficher** les produits automobiles disponibles
+* De **trier** et **filtrer** dynamiquement ces produits
+* De **visualiser** les commentaires des utilisateurs
+* De rendre l’interface claire, fluide et réactive en JavaScript
+
+### 🧰 Technologies utilisées
+
+* **HTML5** : structure de la page
+* **CSS3** : mise en forme
+* **JavaScript** : interactions, manipulation du DOM, tri/filtrage
+
+### 📦 Fonctionnalités
+
+* Affichage des **produits**
+* Tri **alphabétique**, **par prix**, **par pertinence**
+* Affichage des **commentaires clients**
+* Interface fluide, entièrement dynamique sans rechargement de page
+
+---
+
+## 🎓 Objectifs pédagogiques
+
+* ✅ Créer une **interface web** à partir de **données JSON existantes**
+* ✅ Rendre la page **interactive** grâce à **JavaScript**
+* ✅ Utiliser **fetch()** pour interagir avec une **API HTTP locale**
+* ✅ Utiliser des **librairies JavaScript** pour enrichir l’expérience utilisateur
+
+---
+
+## 📁 Données JSON
+
+Les produits et les avis clients sont simulés via des **fichiers JSON locaux**. Ces données sont récupérées dynamiquement pour être affichées et manipulées (tri, filtrage, affichage conditionnel).
+
+Exemples :
+
+* `products.json` → Liste des pièces automobiles
+* `comments.json` → Avis et commentaires des utilisateurs
+
+---
+
+## 🔧 Technologies utilisées
+
+* **HTML5 / CSS3**
+* **JavaScript Vanilla**
+* **Fetch API** pour les requêtes HTTP
+* **Manipulation du DOM**
+* Librairies JS optionnelles selon les besoins (ex: [Lodash](https://lodash.com/) pour le tri)
+
+---
+
+Souhaites-tu que je t’aide à structurer ton dépôt avec un exemple de dossier `data/` contenant les fichiers JSON ?
